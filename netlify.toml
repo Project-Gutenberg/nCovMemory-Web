@@ -1,0 +1,23 @@
+[context.production.environment]
+  HUGO_THEME = "northendlab"
+  HUGO_VERSION = "0.58.2"
+  HUGO_ENABLEGITINFO = "true"
+
+# [build.environment]
+#   YARN_VERSION = "1.12.1"
+#   NPM_VERSION = "6.4.1"
+#   HUGO_VERSION = "0.60.1"
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[context.deploy-preview]
+  command = "npm run build:preview"
+# [build]
+#   publish = "output"
+#   command = 'cd src && hugo  --theme="jeffprod" --destination="../output"'
+
+# [build.environment]
+#   HUGO_VERSION = "0.53"
+

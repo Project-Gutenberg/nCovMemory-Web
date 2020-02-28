@@ -1,0 +1,36 @@
+version: '2'
+services:
+
+  hugo:
+    container_name: hugo
+    image: jojomi/hugo:latest
+    volumes:
+      - ./:/src
+      - ./public:/public
+    restart: always
+    working_dir: /src/site
+    # command: ["tail", "-f", "/dev/null"]
+    # command: hugo server --bind="0.0.0.0"
+    command: hugo server --config github.toml,base.toml --watch=true  --disableFastRender --destination="/public" --bind="0.0.0.0"
+    ports:
+      - 1313:1313
+
+  # web:
+  #   container_name: web
+  #   image: nginx:stable
+  #   volumes:
+  #       - ./public:/usr/share/nginx/html:ro
+  #       - ./nginx/conf.d:/etc/nginx/conf.d
+  #   ports: 
+  #       - "80:80"
+  #   restart: always
+
+  # node:
+  #   container_name: node
+  #   image: "node:12"
+  #   user: "node"
+  #   working_dir: /home/node/app
+  #   volumes:
+  #     - ./:/home/node/app
+  #   # command: "npm start"
+  #   command: ["tail", "-f", "/dev/null"]
