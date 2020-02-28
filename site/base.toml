@@ -105,13 +105,13 @@ link = "https://docs.google.com/forms/d/e/1FAIpQLSeR_JRiGo4y5inWer3VcvKRS9x2nHwK
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-home" # themify icon pack https://themify.me/themify-icons
-link = "https://pincong.rocks/"
+link = "https://github.com/2019ncovmemory/nCovMemory"
 # [[params.social]]
 # icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
 # link = "https://twitter.com/midwaydude/status/1200278195741720576?s=19"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "https://github.com/Project-Gutenberg/Pincong"
+link = "https://github.com/Project-Gutenberg/nCovMemory-Web"
 # [[params.social]]
 # icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 # link = "#"
