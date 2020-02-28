@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name=description content="">
+<meta name=keywords content="">
+<title>Domain Not Found</title>
+<link href="https://vanwanet.com/assets/css/page.min.css" rel=stylesheet>
+<link href="https://vanwanet.com/assets/css/style.css" rel=stylesheet>
+<link rel=apple-touch-icon href="https://vanwanet.com/assets/img/apple-touch-icon.png">
+<link rel=icon href="https://vanwanet.com/assets/img/favicon.png">
+</head>
+<body class="layout-centered bg-gray">
+<main class="main-content text-center pb-lg-8">
+<div class=container>
+<h1 class="display-1 text-muted mb-7">Domain Not Found</h1>
+<h4>This domain is not part of the VanwaNet content delivery network.</h4>
+<p class=lead>Contact support@vanwanet.com for assistance<HR>CDN and DDoS Mitigation by <a href="https://vanwanet.com">VanwaNet</a></p>
+<br>
+</div>
+</main>
+<script src="https://vanwanet.com/assets/js/page.min.js"></script>
+<script src="https://vanwanet.com/assets/js/script.js"></script>
+</body>
+</html>

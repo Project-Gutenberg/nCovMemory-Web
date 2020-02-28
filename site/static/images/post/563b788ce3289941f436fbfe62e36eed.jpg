@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <script src="https://mat1.gtimg.com/pingjs/ext2020/tangent/ua-trace_cff799.js"></script>
+    <script>
+!function () {
+    //ÎÄÕÂÒ³Ìø×ª
+    var getQueryString = function ( field, url ) {
+        var href = url ? url : window.location.href;
+        var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+        var string = reg.exec(href);
+        return string ? string[1] : null;
+    };
+
+    var referrer = getQueryString('uri')
+
+    var boss1604 = new UATrace({
+        _url:'https://btrace.qq.com/kvcollect',
+        BossId:1604,
+        Pwd:0
+    })
+    boss1604.report({
+        sOp:'tiaozhuan_por',
+        sUrl:referrer
+    })
+
+    if(referrer){
+        var result = referrer.match(/new\.qq\.com\/(?:omn|cmsn).*\/(\w+)\.html/)
+        if(result){
+            location.href='/rain/a/'+result[1]
+        }else{
+            location.href='//www.qq.com/babygohome/';
+        }
+    }
+}()
+</script>
+  </head>
+  <body>
+  </body>
+</html><!--[if !IE]>|xGv00|dab3416eb02ef2db8d5afe435856b8f6<![endif]-->

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+	<title>404</title>
+	<style>
+		.error{width:320px;padding:50px 0 0;margin:30px auto 100px;position:relative;}
+		.error span{font-family:Consolas;display:block;font-size:40px;color:#666;font-weight:bold;}
+		.error img{width:100%}
+		.error h2{font-size:26px;font-weight:700;color:#666;}
+		.error p{font-size:14px;color:#666;line-height:24px;}
+		.error a{;display:block;width:95px;height:40px;line-height:40px;margin:30px auto;background:#f12b15;color:#fff;font-size:16px;text-align:center;text-decoration:none}
+	</style>
+</head>
+<body>
+<div class="content">
+	<div class="content-inner">
+		<div class="content-container">
+			<div class="error">
+				<span>404</span>
+				<h2>此处为世界尽头<br>请穿越到“界面”首页吧</h2>
+				<p>可能因为：<br>
+					网址有错误>请检查地址是否完整或存在多余字符<br>
+					网址已失效>可能页面已删除</p>
+				<a href="https://www.jiemian.com/">返回首页</a>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

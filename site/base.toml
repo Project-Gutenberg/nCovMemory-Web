@@ -86,7 +86,7 @@ weight = 1
 ####################### banner #######################################
 [params.banner]
 bgImage = "/images/banner/freedom-of-speech.jpg"
-title = "在自由的阳光下各抒己见"
+title = "收录了2020年新型冠状病毒肺炎（ COVID-19 ）相关的媒体报道、非虚构作品和亲历者个人叙述。"
 image = "/images/banner/"
 
 
