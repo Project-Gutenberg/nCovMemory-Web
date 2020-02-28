@@ -27,8 +27,8 @@ jobs:
     - name: Build Hogo
       run: hugo --config github.toml,base.toml -d ../public -s site -v
 
-    - name: npm Install
-      run: npm install
+    # - name: npm Install
+    #   run: npm install
 
     # - name: Build search index
     #   run: npm run build:search
