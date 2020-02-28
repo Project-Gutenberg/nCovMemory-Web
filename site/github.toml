@@ -21,6 +21,6 @@ disqusShortname = "pin-cong-jing-xuan"
 # home
 home = "Home"
 # logo
-logo = "/images/logo.png"
+logo = "/images/logo.jpg"
 DEPLOY_PRIME_URL = "https://project-gutenberg.github.io/nCovMemory-Web/"
 googleAnalitycsID = "UA-151212685-7"
