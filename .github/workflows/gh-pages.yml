@@ -30,8 +30,8 @@ jobs:
     - name: npm Install
       run: npm install
 
-    - name: Build search index
-      run: npm run build:search
+    # - name: Build search index
+    #   run: npm run build:search
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
