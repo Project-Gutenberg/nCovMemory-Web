@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>梁建章 黄文政 on 2020新冠肺炎记忆</title>
+    <link>https://project-gutenberg.github.io/nCovMemory-Web/author/%E6%A2%81%E5%BB%BA%E7%AB%A0-%E9%BB%84%E6%96%87%E6%94%BF/</link>
+    <description>Recent content in 梁建章 黄文政 on 2020新冠肺炎记忆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © nCovMemory</copyright>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://project-gutenberg.github.io/nCovMemory-Web/author/%E6%A2%81%E5%BB%BA%E7%AB%A0-%E9%BB%84%E6%96%87%E6%94%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>隔离14天是多还是少？要用统计学来思考</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/post/cfbe26c759502a94d24c6cef3ac7dc3e/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/post/cfbe26c759502a94d24c6cef3ac7dc3e/</guid>
+      <description>原文链接 备份链接  图片来源：图虫创意
+作者：梁建章 黄文政
+“
+根据已知数据可以模拟出，任意一个病例的潜伏期超过14天的概率为0.838%，超过24天的概率为0.062%。
+”
+当前，中国正在倾全国之力来控制疫情。可喜的是，很多地区的疫情开始趋于稳定。但与此同时，整个社会也在为此付出高昂的经济代价。如何在防治疫情和恢复之间找到平衡点，会成为目前乃至今后一段时间内的难题。至于解题的关键，就是需要来精准计算不同措施的综合成本和各种情况的 …</description>
+    </item>
+    
+    
+  </channel>
+</rss>

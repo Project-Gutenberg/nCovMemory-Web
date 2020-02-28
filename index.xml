@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020新冠肺炎记忆</title>
+    <link>https://project-gutenberg.github.io/nCovMemory-Web/</link>
+    <description>Recent content on 2020新冠肺炎记忆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © nCovMemory</copyright>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://project-gutenberg.github.io/nCovMemory-Web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/post/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/post/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/contact/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/contact/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Search Result</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/search/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/search/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

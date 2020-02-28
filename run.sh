@@ -1,1 +1,0 @@
-hugo --source="/src" --destination="/output"
