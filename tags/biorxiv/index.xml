@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioRxiv on 2020新冠肺炎记忆</title>
+    <link>https://project-gutenberg.github.io/nCovMemory-Web/tags/biorxiv/</link>
+    <description>Recent content in bioRxiv on 2020新冠肺炎记忆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © nCovMemory</copyright>
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://project-gutenberg.github.io/nCovMemory-Web/tags/biorxiv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>研究：酶切位点插入事件非独有 新冠病毒源于自然重组</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/post/24c1e1edeea8329f9b1a54c0cba60bf2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/post/24c1e1edeea8329f9b1a54c0cba60bf2/</guid>
+      <description>原文链接 备份链接  【财新网】（实习记者 黄晏浩 记者 徐路易）新冠病毒又一项“特殊性”在自然界中找到了类似物。3月6日，一篇发表在bioRxiv预印本网站的论文称，S蛋白两个亚基S1和S2间的蛋白酶切位点有多个氨基酸插入，并非新冠病毒独有，一种新的蝙蝠冠状病毒RmYN02的S蛋白同样存在类似插入。研究团队认为，这一结果有力证明了类似插入可以自然发生，新冠病毒起源于蝙蝠和其他野生动物中存在病毒之间的多重自然重组。论文尚未经过同行评议。 …</description>
+    </item>
+    
+    
+  </channel>
+</rss>

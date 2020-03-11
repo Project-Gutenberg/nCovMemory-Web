@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qPCR on 2020新冠肺炎记忆</title>
+    <link>https://project-gutenberg.github.io/nCovMemory-Web/tags/qpcr/</link>
+    <description>Recent content in qPCR on 2020新冠肺炎记忆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © nCovMemory</copyright>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://project-gutenberg.github.io/nCovMemory-Web/tags/qpcr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>武汉大学：已开发出新的检测方法</title>
+      <link>https://project-gutenberg.github.io/nCovMemory-Web/post/f3a117014ea9ec0d72441817b4bc913d/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/nCovMemory-Web/post/f3a117014ea9ec0d72441817b4bc913d/</guid>
+      <description>原文链接 备份链接  澎湃新闻记者 王俊
+武汉大学新闻网3月2日发布消息称，武汉大学联合团队近日开发出纳米孔靶向测序检测方法，能大幅提升病毒阳性检出率，并能实现当天同时检测新型冠状病毒和其他10大类、40种常见呼吸道病毒并监测病毒突变。
+既往新冠病毒诊断依赖于qPCR核酸检测，但是该方法显示出较高的假阴性率和低敏感性，阳性检出率仅为30％至50％，从而导致临床高度疑似新冠感染患者或低病毒潜伏的“假痊愈患者”检测“假阴性”现象频发。此 …</description>
+    </item>
+    
+    
+  </channel>
+</rss>
